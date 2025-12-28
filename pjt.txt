@@ -1,0 +1,48 @@
+car-rental-website/
+│
+├── config/
+│   ├── database.php
+│   └── constants.php
+│
+├── admin/
+│   ├── dashboard.php
+│   ├── employees.php
+│   ├── cars.php
+│   ├── locations.php
+│   ├── reports.php
+│   └── login.php
+│
+├── employee/
+│   ├── dashboard.php
+│   ├── reservations.php
+│   ├── contracts.php
+│   ├── payments.php
+│   ├── cars.php
+│   └── login.php
+│
+├── client/
+│   ├── index.php
+│   ├── login.php
+│   ├── register.php
+│   ├── profile.php
+│   ├── reservations.php
+│   └── cars.php
+│
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   ├── auth.php
+│   └── functions.php
+│
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   └── admin.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│
+├── index.php
+└── logout.php
+this is my website project
+all the functions im using are inside the includes/functions.php
